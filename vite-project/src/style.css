@@ -1,0 +1,11 @@
+.doctor-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .doctor-item {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
